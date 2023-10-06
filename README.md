@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on completing my web development degree at Tech College Aalborg<br>🌱 I’m currently learning React<br>⚡ Fun fact My career change was sparked by my job as a tech recruiter
+🔭 I’m currently looking for a junior position after successfully completing my degree<br>🌱 I’m currently working with React<br>⚡ Fun fact My career change was sparked by my job as a tech recruiter
 
 
 ## 🌐 Socials:
