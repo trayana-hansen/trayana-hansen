@@ -1,4 +1,4 @@
-#🪄 About Me:
+🪄 About Me:
 🔭 I’m currently looking for a junior position after successfully completing my degree<br>🌱 I’m currently working with React and Angular<br>⚡ Fun fact: My career change was sparked by my job as a tech recruiter
 
 
